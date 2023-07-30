@@ -2,7 +2,7 @@ import React from "react";
 import { Feature } from "../../components";
 import "./whatGPT4.css";
 
-const WhatGPT4=()=> {
+const WhatGPT4 = () => {
   return (
     <div className="gpt4__whatgpt4 section__margin" id="wgpt4">
       <div className="gpt4__whatgpt4-feature">
@@ -33,6 +33,6 @@ const WhatGPT4=()=> {
       </div>
     </div>
   );
-}
+};
 
 export default WhatGPT4;

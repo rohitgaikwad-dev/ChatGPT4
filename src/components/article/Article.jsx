@@ -1,7 +1,7 @@
 import React from "react";
 import "./article.css";
 
-function Article({ imgUrl, date, title }) {
+const Article = ({ imgUrl, date, title })=> {
   return (
     <div className="gpt4__blog-container_article">
       <div className="gpt4__blog-container_article-image">

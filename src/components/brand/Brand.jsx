@@ -2,7 +2,7 @@ import React from "react";
 import "./brand.css";
 import { google, slack, atlassian, dropbox, shopify } from "./imports";
 
-function Brand() {
+const Brand = ()=> {
   return (
     <div className="gpt4__brand section__padding">
       <div>

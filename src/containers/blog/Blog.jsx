@@ -3,7 +3,7 @@ import { Article } from "../../components";
 import { blog01, blog02, blog03, blog04, blog05 } from "./imports";
 import "./blog.css";
 
-function Blog() {
+const Blog = ()=> {
   return (
     <div className="gta4__blog section__padding" id="blog">
       <div className="gpt4__blog-heading">

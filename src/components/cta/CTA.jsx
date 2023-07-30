@@ -1,7 +1,7 @@
 import React from "react";
 import "./cta.css";
 
-function CTA() {
+const CTA = ()=> {
   return (
     <div className="gpt4__cta">
       <div className="gpt4__cta-content">
