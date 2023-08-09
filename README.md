@@ -11,11 +11,11 @@ Demo
 
 Installation
 
-1.Clone the repository: [git clone](https://github.com/rohitgaikwad-dev/ChatGPT4.git)
-2.Navigate to the project directory: cd your-repo
-3.Install dependencies: npm install
-4.Start the development server: npm start
-5.Open your browser and visit: http://localhost:3000
+* Clone the repository: [git clone](https://github.com/rohitgaikwad-dev/ChatGPT4.git)
+* Navigate to the project directory: cd your-repo
+* Install dependencies: npm install
+* Start the development server: npm start
+* Open your browser and visit: http://localhost:3000
 
 License
 This project is licensed under the MIT License.
