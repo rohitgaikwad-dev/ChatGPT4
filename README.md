@@ -12,6 +12,7 @@ Demo
 Installation
 
 Clone the repository: [git clone](https://github.com/rohitgaikwad-dev/ChatGPT4.git)
+
 1.Navigate to the project directory: cd your-repo
 2.Install dependencies: npm install
 3.Start the development server: npm start
